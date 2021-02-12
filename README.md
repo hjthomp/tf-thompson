@@ -1,5 +1,5 @@
 # Práctica de Investigación Supervisada 
-En este repositorio se encuentran los aportes realizados en el Trabajo Final de la Licenciatura en Ciencias de la Computación.
+En este repositorio se encuentran los aportes realizados en el ***Trabajo Final de la Licenciatura en Ciencias de la Computación***.
 
 Este directorio cuenta con los siguientes contenidos:
 - _**Corpus_AFIP.csv:**_ dataset completo con preguntas etiquetadas (Análisis: Tipo de Respuesta)
