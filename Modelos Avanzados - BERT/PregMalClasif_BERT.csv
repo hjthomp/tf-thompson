@@ -1,0 +1,42 @@
+DS,MOD,Texto,Predicho,Real
+DS1_usuario_afip.csv,BERT,¿que debo hacer para que computen el pago erroneo?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿como inscribo en el monotributo al condominio?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿que documentacion debo presentar si soy extranjero y no tengo dni?,referencia,manera
+DS1_usuario_afip.csv,BERT,¿como obtengo una nueva credencial de pago?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿hay algun tratamiento para el saldo a favor que tenia cuando era responsable inscripto?,si_no,manera
+DS1_usuario_afip.csv,BERT,¿que debo realizar para solicitar el cuit en forma presencial?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿de que manera interviene sumar una actividad en el monotributo al pago de anticipos del impuesto a las ganancias de otra actividad?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿que debo hacer para inscribirme al monotributo si soy asociado a una cooperativa de trabajo?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿como deberia hacer si aparte de mi actividad monotributista tambien ejerzo la direccion de una sociedad no comprendida en el regimen simplificado?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,pasar de monotributo a monotributo del regimen de inclusion social y promocion del trabajo independiente ¿es cambiar de categoria o de regimen? ,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿como se define la recategorizacion?,procedimiento,definicion
+DS1_usuario_afip.csv,BERT,¿en que consiste la recategorizacion?,procedimiento,definicion
+DS1_usuario_afip.csv,BERT,¿para que uso el codigo unico de revista?,definicion,razon
+DS1_usuario_afip.csv,BERT,¿cuales son las categorias e importes a pagar?,manera,referencia
+DS1_usuario_afip.csv,BERT,¿que necesito presentar para dar constancia de mi domicilio fiscal?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,si soy monotributista ¿cual es el precio maximo por unidad de venta?,definicion,cantidad
+DS1_usuario_afip.csv,BERT,¿cuales son las formas de abonar el monotributo?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,soy extranjero llevo viviendo mucho tiempo aca pero no tengo dni ¿como debo proceder para inscribirme en el monotributo?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿como se declara la actividad economica?,manera,procedimiento
+DS1_usuario_afip.csv,BERT,los remitos ¿llevan una letra especifica?,referencia,si_no
+DS1_usuario_afip.csv,BERT,¿cuales son los bancos habilitados para el pago con vep?,procedimiento,entidad
+DS1_usuario_afip.csv,BERT,¿cual es el tramite de alta que debe realizar un asociado de una cooperativa de trabajo?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿cual es el limite en el precio de los bienes que vendo para ser monotributista?,definicion,cantidad
+DS1_usuario_afip.csv,BERT,¿que estoy pagando cuando abono el monotributo?,manera,definicion
+DS1_usuario_afip.csv,BERT,si soy monotributista tengo un local y deseo abrir otro en el que voy a realizar 3 actividades ¿puedo seguir siendo monotributista o quedo excluido por tener mas de 3 actividades?,si_no,manera
+DS1_usuario_afip.csv,BERT,¿cuales son las entidades bancarias habilitadas para el pago del vep?,procedimiento,entidad
+DS1_usuario_afip.csv,BERT,¿como debe proceder un extranjero que no posee dni para inscribirse en el monotributo?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿como se cual es mi domicilio fiscal?,procedimiento,definicion
+DS1_usuario_afip.csv,BERT,¿como pago en efectivo?,procedimiento,manera
+DS1_usuario_afip.csv,BERT,¿como puedo saber si estoy incumpliendo con algun o algunos requisitos del monotributo?,procedimiento,referencia
+DS1_usuario_afip.csv,BERT,¿el alta del monotributo depende del dia o del mes en que lo haga?,si_no,temporal
+DS2-train_usuario.csv,BERT,¿cuales son las categorias e importes a pagar?,manera,referencia
+DS2-train_usuario.csv,BERT,¿en que dependencia se debe solicitar la cuit?,manera,ubicacion
+DS2-train_usuario.csv,BERT,¿como se declara la actividad economica?,manera,procedimiento
+DS2-train_usuario.csv,BERT,¿cuales son las modificaciones de datos que implican una sustitucion de la credencial para el pago?,procedimiento,razon
+DS2-train_usuario.csv,BERT,¿como se modifica la situacion frente al monotributo en caso de haber comenzado a trabajar en relacion de dependencia?,manera,procedimiento
+DS2-train_usuario.csv,BERT,¿como se modifica la situacion frente al monotributo en caso de haberse jubilado y continuar con la actividad?,manera,procedimiento
+DS2-train_usuario.csv,BERT,¿como se modifica la situacion frente al monotributo en caso de realizar aportes obligatorios a una caja previsional provincial?,manera,procedimiento
+DS2-train_usuario.csv,BERT,¿mediante que formulario se podra realizar el pago mensual en efectivo?,referencia,manera
+DS2-train_usuario.csv,BERT,¿como se deben ingresar los pagos de diferencias de monotributo?,manera,procedimiento
+DS2-train_usuario.csv,BERT,si la cooperativa de trabajo se encuentra inscripta en el registro nacional de efectores de desarrollo local y economia social ¿existe algun tratamiento especial?,si_no,manera

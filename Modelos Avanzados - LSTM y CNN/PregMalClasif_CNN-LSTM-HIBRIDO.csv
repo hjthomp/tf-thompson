@@ -1,0 +1,149 @@
+DS,MOD,Texto,Predicho,Real
+DS1_usuario_afip.csv,LSTM,¿ como inscribo monotributo condominio ?,procedimiento,manera
+DS1_usuario_afip.csv,LSTM,¿ como obtengo nueva credencial pago ?,procedimiento,manera
+DS1_usuario_afip.csv,LSTM,¿ hay algun tratamiento para saldo favor que cuando responsable inscripto ?,si_no,manera
+DS1_usuario_afip.csv,LSTM,¿ como debe si realiza mas actividad ?,procedimiento,manera
+DS1_usuario_afip.csv,LSTM,si afip monotributo ¿ cuando puedo volver darme alta ?,manera,temporal
+DS1_usuario_afip.csv,LSTM,¿ como modifica situacion frente monotributo caso haber trabajar relacion dependencia ?,si_no,procedimiento
+DS1_usuario_afip.csv,LSTM,¿ donde debo solicitar cuit ?,referencia,ubicacion
+DS1_usuario_afip.csv,LSTM,pasar monotributo monotributo regimen inclusion social promocion trabajo independiente ¿ es cambiar categoria regimen ?,si_no,manera
+DS1_usuario_afip.csv,LSTM,¿ que cantidad debo abonar por monotributo ?,cantidad,referencia
+DS1_usuario_afip.csv,LSTM,¿ como recategorizacion ?,procedimiento,definicion
+DS1_usuario_afip.csv,LSTM,¿ para que uso codigo ?,procedimiento,razon
+DS1_usuario_afip.csv,LSTM,¿ cuales son pagar ?,definicion,referencia
+DS1_usuario_afip.csv,LSTM,¿ que dar alta nuevo si doy baja luego actividad ?,temporal,si_no
+DS1_usuario_afip.csv,LSTM,"¿ que contribuyentes monotributistas encuentran exceptuados cumplir obligaciones mediante pago por electronica , debito pago electronico ?",si_no,razon
+DS1_usuario_afip.csv,LSTM,¿ que necesito descargar para credencial pago ?,manera,procedimiento
+DS1_usuario_afip.csv,LSTM,¿ que medio puedo emitir facturas ?,razon,manera
+DS1_usuario_afip.csv,LSTM,¿ que necesito presentar para dar domicilio fiscal ?,procedimiento,manera
+DS1_usuario_afip.csv,LSTM,¿ cuando hay que tener cuenta superficie afectada ?,temporal,razon
+DS1_usuario_afip.csv,LSTM,si fabrico bienes ¿ considera como venta cosa mueble ?,manera,si_no
+DS1_usuario_afip.csv,LSTM,¿ como informa cambio condicion responsable inscripto monotributista ( persona humana ) ?,si_no,procedimiento
+DS1_usuario_afip.csv,LSTM,"extranjero , llevo tiempo no dni , ¿ como debo proceder para inscribirme monotributo ?",procedimiento,manera
+DS1_usuario_afip.csv,LSTM,"para sacar alguien obra social , ¿ que debo hacer ?",referencia,procedimiento
+DS1_usuario_afip.csv,LSTM,¿ que entiende por unidad explotacion ? ¿ por actividad economica ?,si_no,definicion
+DS1_usuario_afip.csv,LSTM,¿ cuando puedo quedar excluido ?,temporal,razon
+DS1_usuario_afip.csv,LSTM,¿ cuales son bancos para pago vep ?,manera,entidad
+DS1_usuario_afip.csv,LSTM,¿ por que puedo quedar excluido monotributo ?,si_no,razon
+DS1_usuario_afip.csv,LSTM,"¿ cuantos debo comprobantes , documentos facturas ?",referencia,temporal
+DS1_usuario_afip.csv,LSTM,"caso controles sistemicos , ¿ como lleva cabo notificacion para recategorizacion oficio ?",procedimiento,manera
+DS1_usuario_afip.csv,LSTM,¿ que ir hacer tramite para obtener cuit ?,manera,si_no
+DS1_usuario_afip.csv,LSTM,"si responsable inscripto saldo favor cambia monotributo , ¿ que sucede saldo ?",si_no,manera
+DS1_usuario_afip.csv,LSTM,¿ que cuando monotributo ?,temporal,definicion
+DS1_usuario_afip.csv,LSTM,"si monotributista , local deseo abrir que realizar 3 actividades ¿ puedo seguir siendo monotributista quedo excluido por tener mas 3 actividades ?",si_no,manera
+DS1_usuario_afip.csv,LSTM,¿ como puedo tomar saldo pagos erroneamente ?,procedimiento,manera
+DS1_usuario_afip.csv,LSTM,¿ cuales son entidades bancarias habilitadas para pago vep ?,manera,entidad
+DS1_usuario_afip.csv,LSTM,¿ como debe proceder extranjero que no posee . . . para inscribirse monotributo ?,si_no,manera
+DS1_usuario_afip.csv,LSTM,¿ como cual es domicilio fiscal ?,procedimiento,definicion
+DS1_usuario_afip.csv,LSTM,¿ traves que afip informa recategorizacion oficio ?,si_no,manera
+DS1_usuario_afip.csv,LSTM,¿ como informo inicio relacion dependencia monotributo ?,manera,procedimiento
+DS1_usuario_afip.csv,LSTM,¿ como pago efectivo ?,procedimiento,manera
+DS1_usuario_afip.csv,LSTM,¿ como puedo saber si algun requisitos monotributo ?,manera,referencia
+DS1_usuario_afip.csv,LSTM,¿ alta monotributo dia mes que ?,si_no,temporal
+DS1_usuario_afip.csv,CNN,¿ que debo hacer para que pago ?,procedimiento,manera
+DS1_usuario_afip.csv,CNN,¿ como inscribo monotributo condominio ?,procedimiento,manera
+DS1_usuario_afip.csv,CNN,¿ como recategorizo ?,manera,procedimiento
+DS1_usuario_afip.csv,CNN,¿ como obtengo nueva credencial pago ?,procedimiento,manera
+DS1_usuario_afip.csv,CNN,¿ hay algun tratamiento para saldo favor que cuando responsable inscripto ?,si_no,manera
+DS1_usuario_afip.csv,CNN,¿ que sucedera saldo favor cuando deje ser responsable inscripto pase ser monotributista ?,temporal,manera
+DS1_usuario_afip.csv,CNN,¿ como debe si realiza mas actividad ?,procedimiento,manera
+DS1_usuario_afip.csv,CNN,pasar monotributo monotributo regimen inclusion social promocion trabajo independiente ¿ es cambiar categoria regimen ?,si_no,manera
+DS1_usuario_afip.csv,CNN,¿ que cantidad debo abonar por monotributo ?,temporal,referencia
+DS1_usuario_afip.csv,CNN,¿ como recategorizacion ?,manera,definicion
+DS1_usuario_afip.csv,CNN,¿ para que uso codigo ?,referencia,razon
+DS1_usuario_afip.csv,CNN,¿ cuales son pagar ?,razon,referencia
+DS1_usuario_afip.csv,CNN,¿ que dar alta nuevo si doy baja luego actividad ?,procedimiento,si_no
+DS1_usuario_afip.csv,CNN,¿ que medio puedo emitir facturas ?,referencia,manera
+DS1_usuario_afip.csv,CNN,¿ que sucede si doy baja luego actividad ?,procedimiento,manera
+DS1_usuario_afip.csv,CNN,¿ cuando debe sustituir credencial pago ?,temporal,razon
+DS1_usuario_afip.csv,CNN,¿ que conceptos monotributo ?,razon,definicion
+DS1_usuario_afip.csv,CNN,¿ cuales son comprobantes obligacion emision electronica ?,razon,referencia
+DS1_usuario_afip.csv,CNN,¿ cuando puedo quedar excluido ?,temporal,razon
+DS1_usuario_afip.csv,CNN,¿ donde motivos por cuales recategorizo oficio ?,temporal,referencia
+DS1_usuario_afip.csv,CNN,¿ por que puedo quedar excluido monotributo ?,temporal,razon
+DS1_usuario_afip.csv,CNN,"¿ cuantos debo comprobantes , documentos facturas ?",referencia,temporal
+DS1_usuario_afip.csv,CNN,¿ que ir hacer tramite para obtener cuit ?,ubicacion,si_no
+DS1_usuario_afip.csv,CNN,¿ cual es limite precio bienes que vendo para ser monotributista ?,definicion,cantidad
+DS1_usuario_afip.csv,CNN,¿ que cuando monotributo ?,temporal,definicion
+DS1_usuario_afip.csv,CNN,¿ existe darme baja monotributo fecha meses atras ?,temporal,si_no
+DS1_usuario_afip.csv,CNN,"si monotributista , local deseo abrir que realizar 3 actividades ¿ puedo seguir siendo monotributista quedo excluido por tener mas 3 actividades ?",si_no,manera
+DS1_usuario_afip.csv,CNN,"si empiezo aportar caja previsional provincial , ¿ que informarlo monotributo ?",procedimiento,si_no
+DS1_usuario_afip.csv,CNN,si monotributista ¿ que presentar declaracion jurada impuesto ganancias ?,razon,si_no
+DS1_usuario_afip.csv,CNN,¿ como debe proceder extranjero que no posee . . . para inscribirse monotributo ?,procedimiento,manera
+DS1_usuario_afip.csv,CNN,¿ como cual es domicilio fiscal ?,manera,definicion
+DS1_usuario_afip.csv,CNN,¿ traves que afip informa recategorizacion oficio ?,si_no,manera
+DS1_usuario_afip.csv,CNN,¿ como informo inicio relacion dependencia monotributo ?,manera,procedimiento
+DS1_usuario_afip.csv,CNN,¿ como puedo saber si algun requisitos monotributo ?,manera,referencia
+DS1_usuario_afip.csv,CNN,¿ alta monotributo dia mes que ?,si_no,temporal
+DS1_usuario_afip.csv,HIBRIDO,¿ que debo hacer para que pago ?,procedimiento,manera
+DS1_usuario_afip.csv,HIBRIDO,¿ como inscribo monotributo condominio ?,procedimiento,manera
+DS1_usuario_afip.csv,HIBRIDO,¿ como recategorizo ?,manera,procedimiento
+DS1_usuario_afip.csv,HIBRIDO,¿ como obtengo nueva credencial pago ?,procedimiento,manera
+DS1_usuario_afip.csv,HIBRIDO,¿ hay algun tratamiento para saldo favor que cuando responsable inscripto ?,si_no,manera
+DS1_usuario_afip.csv,HIBRIDO,¿ que debo realizar para solicitar cuit forma presencial ?,procedimiento,manera
+DS1_usuario_afip.csv,HIBRIDO,¿ que sucedera saldo favor cuando deje ser responsable inscripto pase ser monotributista ?,temporal,manera
+DS1_usuario_afip.csv,HIBRIDO,¿ como debe si realiza mas actividad ?,procedimiento,manera
+DS1_usuario_afip.csv,HIBRIDO,pasar monotributo monotributo regimen inclusion social promocion trabajo independiente ¿ es cambiar categoria regimen ?,si_no,manera
+DS1_usuario_afip.csv,HIBRIDO,¿ que cantidad debo abonar por monotributo ?,temporal,referencia
+DS1_usuario_afip.csv,HIBRIDO,¿ como recategorizacion ?,manera,definicion
+DS1_usuario_afip.csv,HIBRIDO,"si monotributo , debo modificar datos si quiero iniciar relacion dependencia ?",manera,si_no
+DS1_usuario_afip.csv,HIBRIDO,¿ para que uso codigo ?,procedimiento,razon
+DS1_usuario_afip.csv,HIBRIDO,¿ cuales son pagar ?,definicion,referencia
+DS1_usuario_afip.csv,HIBRIDO,¿ que dar alta nuevo si doy baja luego actividad ?,temporal,si_no
+DS1_usuario_afip.csv,HIBRIDO,"caso haber sido responsable inscripto , poseer saldo favor impuesto ganancias por haber retenciones , momento ingresar regimen monotributo , ¿ cual es tratamiento saldo favor ?",temporal,manera
+DS1_usuario_afip.csv,HIBRIDO,"vez inscripto , ¿ efecto monotributo ?",temporal,si_no
+DS1_usuario_afip.csv,HIBRIDO,¿ cuando puedo quedar excluido ?,temporal,razon
+DS1_usuario_afip.csv,HIBRIDO,"¿ cuantos debo comprobantes , documentos facturas ?",referencia,temporal
+DS1_usuario_afip.csv,HIBRIDO,¿ cuando puedo monotributista si realizo inscripcion hoy ?,razon,temporal
+DS1_usuario_afip.csv,HIBRIDO,¿ que ir hacer tramite para obtener cuit ?,procedimiento,si_no
+DS1_usuario_afip.csv,HIBRIDO,¿ cual es limite precio bienes que vendo para ser monotributista ?,manera,cantidad
+DS1_usuario_afip.csv,HIBRIDO,¿ que cuando monotributo ?,temporal,definicion
+DS1_usuario_afip.csv,HIBRIDO,"si monotributista , local deseo abrir que realizar 3 actividades ¿ puedo seguir siendo monotributista quedo excluido por tener mas 3 actividades ?",si_no,manera
+DS1_usuario_afip.csv,HIBRIDO,"si empiezo aportar caja previsional provincial , ¿ que informarlo monotributo ?",procedimiento,si_no
+DS1_usuario_afip.csv,HIBRIDO,si monotributista ¿ que presentar declaracion jurada impuesto ganancias ?,razon,si_no
+DS1_usuario_afip.csv,HIBRIDO,¿ como debe proceder extranjero que no posee . . . para inscribirse monotributo ?,procedimiento,manera
+DS1_usuario_afip.csv,HIBRIDO,¿ como cual es domicilio fiscal ?,manera,definicion
+DS1_usuario_afip.csv,HIBRIDO,¿ traves que afip informa recategorizacion oficio ?,si_no,manera
+DS1_usuario_afip.csv,HIBRIDO,¿ como informo inicio relacion dependencia monotributo ?,manera,procedimiento
+DS1_usuario_afip.csv,HIBRIDO,¿ como puedo saber si algun requisitos monotributo ?,manera,referencia
+DS1_usuario_afip.csv,HIBRIDO,¿ cuales son requisitos tramitar para cambiar responsable inscripto monotributista ?,razon,procedimiento
+DS1_usuario_afip.csv,HIBRIDO,¿ alta monotributo dia mes que ?,si_no,temporal
+DS2-train_usuario.csv,LSTM,¿ como tramita baja monotributo ?,manera,procedimiento
+DS2-train_usuario.csv,LSTM,¿ cuales son pagar ?,definicion,referencia
+DS2-train_usuario.csv,LSTM,¿ que categoria debo si inicio actividad por adherirme regimen simplificado ?,procedimiento,manera
+DS2-train_usuario.csv,LSTM,¿ como debe si realiza mas actividad ?,procedimiento,manera
+DS2-train_usuario.csv,LSTM,"si desarrolla actividad hogar , ¿ como computa superficie consumo fines categorizacion ?",si_no,manera
+DS2-train_usuario.csv,LSTM,¿ existe cantidad maxima empleados por categoria ?,referencia,si_no
+DS2-train_usuario.csv,LSTM,¿ que dependencia debe solicitar cuit ?,razon,ubicacion
+DS2-train_usuario.csv,LSTM,¿ como debe proceder extranjero que no posee . . . para inscribirse monotributo ?,procedimiento,manera
+DS2-train_usuario.csv,LSTM,¿ cuando debe realizar primer pago caso inicio actividades ?,razon,temporal
+DS2-train_usuario.csv,LSTM,¿ cuales son modificaciones datos que sustitucion credencial para pago ?,manera,razon
+DS2-train_usuario.csv,LSTM,¿ como modifica situacion monotributo caso haber trabajar relacion dependencia ?,manera,procedimiento
+DS2-train_usuario.csv,LSTM,¿ como modifica situacion monotributo caso realizar aportes obligatorios caja previsional provincial ?,manera,procedimiento
+DS2-train_usuario.csv,LSTM,¿ cuando debe realizarse recategorizacion ?,razon,temporal
+DS2-train_usuario.csv,LSTM,¿ como deben ingresar pagos monotributo ?,manera,procedimiento
+DS2-train_usuario.csv,LSTM,¿ cuales son abonar monotributo ?,definicion,manera
+DS2-train_usuario.csv,LSTM,"pago obligacion realizado termino , ¿ genera intereses ?",procedimiento,si_no
+DS2-train_usuario.csv,LSTM,"si cooperativa trabajo inscripta registro nacional efectores desarrollo local economia social , ¿ existe algun tratamiento especial ?",si_no,manera
+DS2-train_usuario.csv,CNN,¿ cuales son pagar ?,definicion,referencia
+DS2-train_usuario.csv,CNN,¿ que conceptos monotributo ?,razon,definicion
+DS2-train_usuario.csv,CNN,¿ como debe si realiza mas actividad ?,procedimiento,manera
+DS2-train_usuario.csv,CNN,"¿ cual es diferencia entre responsable inscripto impuesto valor agregado monotributista , efectos debito fiscal ?",si_no,definicion
+DS2-train_usuario.csv,CNN,¿ que dependencia debe solicitar cuit ?,manera,ubicacion
+DS2-train_usuario.csv,CNN,¿ como debe proceder extranjero que no posee . . . para inscribirse monotributo ?,procedimiento,manera
+DS2-train_usuario.csv,CNN,¿ cuales son modificaciones datos que sustitucion credencial para pago ?,procedimiento,razon
+DS2-train_usuario.csv,CNN,¿ como modifica situacion monotributo caso haber trabajar relacion dependencia ?,manera,procedimiento
+DS2-train_usuario.csv,CNN,¿ mediante que formulario podra realizar pago efectivo ?,si_no,manera
+DS2-train_usuario.csv,CNN,¿ como deben ingresar pagos monotributo ?,manera,procedimiento
+DS2-train_usuario.csv,CNN,¿ cuales son abonar monotributo ?,definicion,manera
+DS2-train_usuario.csv,CNN,"si cooperativa trabajo inscripta registro nacional efectores desarrollo local economia social , ¿ existe algun tratamiento especial ?",si_no,manera
+DS2-train_usuario.csv,CNN,¿ que documentacion debera exhibir ?,manera,referencia
+DS2-train_usuario.csv,HIBRIDO,¿ cuales son pagar ?,definicion,referencia
+DS2-train_usuario.csv,HIBRIDO,¿ como debe si realiza mas actividad ?,procedimiento,manera
+DS2-train_usuario.csv,HIBRIDO,¿ que dependencia debe solicitar cuit ?,si_no,ubicacion
+DS2-train_usuario.csv,HIBRIDO,¿ como debe proceder extranjero que no posee . . . para inscribirse monotributo ?,procedimiento,manera
+DS2-train_usuario.csv,HIBRIDO,"persona que actividad monotributo , que semestre , por anualizacion ingresos , supera maximo previsto por regimen . ¿ cuando debe pasar responsable inscripto iva ?",manera,temporal
+DS2-train_usuario.csv,HIBRIDO,"¿ que contribuyentes monotributistas encuentran exceptuados cumplir obligaciones mediante pago por electronica , debito pago electronico ?",si_no,razon
+DS2-train_usuario.csv,HIBRIDO,¿ como deben ingresar pagos monotributo ?,manera,procedimiento
+DS2-train_usuario.csv,HIBRIDO,¿ cuales son abonar monotributo ?,definicion,manera
+DS2-train_usuario.csv,HIBRIDO,"si cooperativa trabajo inscripta registro nacional efectores desarrollo local economia social , ¿ existe algun tratamiento especial ?",si_no,manera

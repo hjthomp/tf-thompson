@@ -1,0 +1,44 @@
+DS,PREPROC,MOD,Texto,Predicho,Real
+DS1,PROC,SVM_3_4G_CHAR,como inscribo en el monotributo al condominio,procedimiento,manera
+DS1,PROC,SVM_3_4G_CHAR,como obtengo una nueva credencial de pago,procedimiento,manera
+DS1,PROC,SVM_3_4G_CHAR,hay algun tratamiento para el saldo favor que tenia cuando era responsable inscripto,si_no,manera
+DS1,PROC,SVM_3_4G_CHAR,si afip me excluye del monotributo cuando puedo volver darme de alta,si_no,temporal
+DS1,PROC,SVM_3_4G_CHAR,pasar de monotributo monotributo del regimen de inclusion social promocion del trabajo independiente es cambiar de categoria de regimen,referencia,manera
+DS1,PROC,SVM_3_4G_CHAR,que cantidad debo abonar por el monotributo,si_no,referencia
+DS1,PROC,SVM_3_4G_CHAR,como se define la recategorizacion,procedimiento,definicion
+DS1,PROC,SVM_3_4G_CHAR,cuando debo pasar responsable inscripto en iva si supere el maximo previsto por el regimen,si_no,temporal
+DS1,PROC,SVM_3_4G_CHAR,en que consiste la recategorizacion,manera,definicion
+DS1,PROC,SVM_3_4G_CHAR,para que uso el codigo unico de revista,si_no,razon
+DS1,PROC,SVM_3_4G_CHAR,cuales son las categorias importes pagar,manera,referencia
+DS1,PROC,SVM_3_4G_CHAR,me tengo que dar de alta de nuevo si me doy de baja luego retomo mi actividad,procedimiento,si_no
+DS1,PROC,SVM_3_4G_CHAR,pasar de monotributo monotributo del regimen de inclusion social promocion del trabajo independiente es recategorizarse,referencia,si_no
+DS1,PROC,SVM_3_4G_CHAR,de que forma se lleva cabo la recategorizacion,manera,procedimiento
+DS1,PROC,SVM_3_4G_CHAR,si realizo varias actividades debo declarar cual es la principal,manera,si_no
+DS1,PROC,SVM_3_4G_CHAR,que sucede si me doy de baja luego retomo mi actividad,procedimiento,manera
+DS1,PROC,SVM_3_4G_CHAR,debo hacer los pagos de forma electronica,procedimiento,si_no
+DS1,PROC,SVM_3_4G_CHAR,debo pagar el monotributo el dia en que me doy de alta,temporal,si_no
+DS1,PROC,SVM_3_4G_CHAR,en que lugar debo tramitar mi cuit,manera,ubicacion
+DS1,PROC,SVM_3_4G_CHAR,cuales son los comprobantes alcanzados la obligacion de emision electronica,razon,referencia
+DS1,PROC,SVM_3_4G_CHAR,los remitos llevan una letra especifica,referencia,si_no
+DS1,PROC,SVM_3_4G_CHAR,donde veo los motivos por los cuales se me recategorizo de oficio,si_no,referencia
+DS1,PROC,SVM_3_4G_CHAR,por que puedo quedar excluido del monotributo,si_no,razon
+DS1,PROC,SVM_3_4G_CHAR,cuantos anos debo mantener los comprobantes documentos facturas,referencia,temporal
+DS1,PROC,SVM_3_4G_CHAR,cuando puedo llamarme monotributista si realizo la inscripcion hoy,si_no,temporal
+DS1,PROC,SVM_3_4G_CHAR,quienes pueden abstenerse de emitir comprobantes de forma electronica,referencia,razon
+DS1,PROC,SVM_3_4G_CHAR,tengo que ir yo necesariamente hacer el tramite para obtener el cuit,manera,si_no
+DS1,PROC,SVM_3_4G_CHAR,cual es el limite en el precio de los bienes que vendo para ser monotributista,manera,cantidad
+DS1,PROC,SVM_3_4G_CHAR,que estoy pagando cuando abono el monotributo,temporal,definicion
+DS1,PROC,SVM_3_4G_CHAR,si era monotributista luego me pase responsable inscripto cuando puedo volver ser monotributista,si_no,temporal
+DS1,PROC,SVM_3_4G_CHAR,si soy monotributista tengo un local deseo abrir otro en el que voy realizar 3 actividades puedo seguir siendo monotributista quedo excluido por tener mas de 3 actividades,si_no,manera
+DS1,PROC,SVM_3_4G_CHAR,como puedo tomar el saldo de los pagos hechos erroneamente,si_no,manera
+DS1,PROC,SVM_3_4G_CHAR,traves de que via afip me informa la recategorizacion de oficio,si_no,manera
+DS1,PROC,SVM_3_4G_CHAR,como puedo saber si estoy incumpliendo con algun algunos requisitos del monotributo,manera,referencia
+DS1,PROC,SVM_3_4G_CHAR,el alta del monotributo depende del dia del mes en que lo haga,si_no,temporal
+DS2,PROC,SVM_1_2G_WORD,pasos para adherirse mediante el portal de monotributo,si_no,procedimiento
+DS2,PROC,SVM_1_2G_WORD,que documentacion se debera exhibir en los locales,manera,referencia
+DS2,PROC,SVM_1_2G_WORD,si se prestan servicios sin poseer un domicilio fijo se prestan servicios domicilio que parametros deberan considerarse para la categorizacion,si_no,manera
+DS2,PROC,SVM_1_2G_WORD,como se deben ingresar los pagos de diferencias de monotributo,manera,procedimiento
+DS2,PROC,SVM_1_2G_WORD,cuales son las categorias importes pagar,razon,referencia
+DS2,PROC,SVM_1_2G_WORD,si la cooperativa de trabajo se encuentra inscripta en el registro nacional de efectores de desarrollo local economia social existe algun tratamiento especial,si_no,manera
+DS2,PROC,SVM_1_2G_WORD,cual es el domicilio fiscal de una persona humana,manera,definicion
+DS2,PROC,SVM_1_2G_WORD,cual es la diferencia entre un responsable inscripto en el impuesto al valor agregado un monotributista los efectos de la generacion de debito fiscal,si_no,definicion

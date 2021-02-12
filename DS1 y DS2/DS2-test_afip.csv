@@ -1,0 +1,163 @@
+IUCA,Texto,Etiqueta
+0,"Si se deja de ejercer la actividad pero dentro de unos meses se volverá a trabajar en la misma, ¿se puede mantener la inscripción en forma suspendida hasta tanto vuelva a tener actividad?",si_no
+1,¿En qué situaciones se producirá la exclusión del Monotributo?,razon
+2,¿Cómo se tramita la baja del Monotributo?,procedimiento
+3,"Si se realiza la baja del Monotributo por cese de actividad, ¿se puede volver a adherir en cualquier momento?",si_no
+4,"En caso de exclusión, ¿Cuánto tiempo se debe de aguardar para volver a adherirse al Monotributo?",temporal
+5,En los casos de baja por renuncia ¿Cuánto tiempo se deberá esperar para volver al Régimen de Monotributo?,temporal
+6,¿A partir de qué momento tiene efectos la cancelación de la inscripción por cese de actividad o renuncia?,temporal
+7,"¿En qué casos se produce la baja automática en el Monotributo?",razon
+7,"De producirse la baja automática en el Monotributo, ¿se puede realizar la adhesión nuevamente?",si_no
+8,¿A partir de qué momento tiene efectos la baja por exclusión?,temporal
+9,"Un monotributista que adquiere el carácter de responsable inscripto en el IVA, ¿puede computar el crédito de sus existencias al momento del cambio de su condición?",si_no
+10,¿Es posible realizar una baja retroactiva en el Monotributo?,si_no
+11,¿Cuáles son las categorías e importes a pagar?,referencia
+12,¿Qué conceptos componen el Monotributo?,definicion
+13,¿Quiénes se encuentran exceptuados de ingresar las cotizaciones previsionales fijas?,razon
+14,¿En qué categoría debo encuadrarme si inicio una actividad y opto por adherirme al Régimen Simplificado?,manera
+15,¿Qué se entiende por ingresos brutos?,definicion
+16,¿cómo se debe categorizar si se realiza más de una actividad?,manera
+17,"Siendo un empleado en relación de dependencia, que se inscribe en el Monotributo, ¿qué ingresos debe de computar para categorizarse?",manera
+18,"¿En qué casos no se tendrá en cuenta el parámetro ""energía eléctrica""?",razon
+19,"¿En qué casos no se tendrá en cuenta el parámetro ""superficie afectada""?",razon
+20,"De realizar más de una actividad como monotributista, ¿cómo se determina cual es la principal?",manera
+21,"Si se desarrolla la actividad en el hogar, ¿cómo se computa la superficie y el consumo eléctrico a los fines de la categorización?",manera
+22,"Si se prestan servicios sin poseer un domicilio fijo ó se prestan servicios a domicilio, ¿qué parámetros deberán considerarse para la categorización?",manera
+23,¿Existe una cantidad máxima de empleados por categoría?,si_no
+24,"A los efectos de determinar los alquileres devengados, ¿se debe tener en cuenta los gastos correspondientes a gas, luz, y teléfono?",si_no
+25,"Una persona que realiza una actividad independiente por la que reviste la condición de Monotributista y a su vez ejerce la dirección, administración o conducción de sociedades no comprendidas en el Régimen Simplificado o comprendidas y no adheridas al mismo, ¿Debe aportar al régimen de autónomos y simultáneamente las cotizaciones previsionales del Monotributo?",si_no
+26,"En caso de brindar servicios de carpintería que implica fabricar un bien mueble, pero no en serie. ¿Debe categorizarse como venta de cosa mueble?",si_no
+27,¿Cuál es el precio máximo unitario de venta?,cantidad
+28,"Siendo monotributista, ¿puedo realizar importaciones?",si_no
+29,¿A los monotributistas se les aplica la alícuota diferencial del 27% de IVA en las facturas de servicios públicos?,si_no
+30,¿Qué se entiende por unidad de explotación? ¿y por actividad económica?,definicion
+31,"Ante el cambio de condición de responsable inscripto a monotributista, ¿se deben prorratear las deducciones personales por cargas de familia a los efectos de generar la declaración jurada del Impuesto a las Ganancias?",si_no
+32,"Un comerciante responsable inscripto en IVA que está en condiciones de optar por el Monotributo, ¿debe reintegrar el crédito fiscal de las existencias de los bienes?",si_no
+33,"¿Cuál es la diferencia entre un responsable inscripto en el impuesto al Valor Agregado y un Monotributista, a los efectos de la generación de débito fiscal?",definicion
+34,"En caso de incorporar una actividad en el Monotributo, y continuar desarrollando otra actividad por el régimen general, ¿cómo se deben determinar los anticipos del Impuesto a las Ganancias?",manera
+35,¿Es personal el trámite de generación de CUIT?,si_no
+36,¿En qué dependencia se debe solicitar la CUIT?,ubicacion
+37,¿Qué documentación deberán presentar las personas humanas para tramitar el número de CUIT en caso de optar por realizar el trámite de forma presencial?,manera
+38,¿Las sociedades pueden adherirse al monotributo?,si_no
+39,¿Cómo debe proceder un extranjero que no posee D.N.I. para inscribirse en el Monotributo?,manera
+40,Un sujeto adherido al Monotributo por una actividad ¿puede realizar otra actividad bajo la condición de IVA Exento?,si_no
+41,¿Cuál es el domicilio fiscal de una persona humana?,definicion
+42,¿Cómo puede acreditarse el domicilio fiscal cuando coincida con el domicilio del DNI y no se registren constancias del mismo?,manera
+43,Pasos para adherirse mediante el portal de Monotributo.,procedimiento
+44,¿Quiénes se encuentra exceptuados de constituir el domicilio fiscal electrónico?,razon
+45,¿Cuáles son los pasos para inscribir a los condóminos como Monotributistas?,procedimiento
+46,¿Cómo se declara la actividad económica?,procedimiento
+47,¿Cuál es el tratamiento aplicable a los condominios?,manera
+48,"¿Cuál de las opciones de ""Aporte de jubilación"" corresponde seleccionar?",manera
+49,"Si por el tipo de actividad no se deben considerar determinados parámetros tales como: ingresos brutos, superficie afectada, energía eléctrica, monto de alquileres o precio unitario, ¿cómo se deben completar los campos correspondientes a cada parámetro al momento de realizar la adhesión o recategorización al Monotributo?",manera
+50,¿A partir de cuándo tiene efectos la adhesión por el monotributo?,temporal
+51,¿Cuál será el componente que deberán ingresar las sucesiones indivisas adheridas al Monotributo?,manera
+52,¿Cómo se realiza la adhesión en el caso de asociados a Cooperativas de Trabajo?,manera
+53,¿Cuándo se debe realizar el primer pago en caso de inicio de actividades?,temporal
+54,¿Cómo se reimprime la credencial de pago?,procedimiento
+55,"¿Qué es el CUR?",definicion
+56,"¿Cómo se informa el cambio de condición de ""Responsable Inscripto"" a ""Monotributista"" (persona humana)?",procedimiento
+57,"En el caso de haber sido Responsable Inscripto, y poseer saldo a favor en el Impuesto a las Ganancias por haber sufrido retenciones, al momento de ingresar al Régimen de Monotributo, ¿Cuál es el tratamiento de dicho saldo a favor?",manera
+58,"¿Qué trámites se podrán realizar a través del portal ""Monotributo""?",manera
+59,¿Una persona humana puede ser monotributista si obtiene ingresos provenientes de la locación de inmuebles situados en el exterior?,si_no
+60,¿Cuáles son las modificaciones de datos que implican una sustitución de la credencial para el pago?,razon
+61,¿Cómo se realiza la baja de un integrante de la Obra Social?,procedimiento
+62,¿Cómo se realiza el cambio de actividad?,procedimiento
+63,¿Cómo se modifica la situación frente al Monotributo en caso de haber comenzado a trabajar en relación de dependencia?,procedimiento
+64,¿Cómo se modifica la situación frente al Monotributo en caso de haberse jubilado y continuar con la actividad?,procedimiento
+65,¿Cómo se modifica la situación frente al Monotributo en caso de realizar aportes obligatorios a una caja previsional provincial?,procedimiento
+66,¿Cómo se realiza el cambio de obra social?,procedimiento
+67,¿Cómo se agrega a un adherente a la obra social?,procedimiento
+68,¿Cómo se realiza el cambio de domicilio?,procedimiento
+69,"¿Cómo se debe proceder si pasados los 30 días de haber realizado el cambio del domicilio mediante el servicio ""Sistema Registral"", no se recibe el código de confirmación?",procedimiento
+70,¿Cómo se realiza la recategorización?,procedimiento
+71,¿Qué es la recategorización?,definicion
+72,¿Cuando debe realizarse la recategorización?,temporal
+73,"Si transcurrió un semestre desde la inscripción y al anualizar los ingresos brutos para la recategorización, se supera el límite de la categoría máxima, ¿corresponde la inscripción en el Régimen General?",si_no
+74,¿Dónde podrá consultar el monotributista si tiene inconsistencias?,referencia
+75,¿Cuáles son los parámetros a considerar en la recategorización?,manera
+76,"Si no transcurrieron 12 meses desde el inicio de actividad, ¿cómo se debe de realizar el cálculo a los efectos de la recategorización?",manera
+77,"Una vez realizada la recategorización, ¿Cuándo se empieza a pagar el importe de la nueva categoría?",temporal
+78,¿En qué casos los monotributistas no se encuentran obligados a realizar la recategorización?,razon
+79,¿Cuál es la sanción y el procedimiento a seguir en caso que la recategorización efectuada sea inexacta?,procedimiento
+80,"Si por el tipo de actividad no se deben considerar determinados parámetros tales como: ingresos brutos, superficie afectada, energía eléctrica, monto de alquileres o precio unitario, ¿cómo se deben completar los campos correspondientes a cada parámetro al momento de realizar la adhesión o recategorización al Monotributo?",manera
+81,Si modifica la condición de Monotributo a Monotributo Régimen de inclusión social y promoción del trabajo independiente o viceversa ¿se considera recategorización?,si_no
+82,¿En qué casos procederá la recategorización de oficio?,razon
+83,¿Qué parámetros se aplicarán para determinar la recategorización de oficio?,manera
+84,¿Cómo se notifica la recategorización de oficio cuando sea por controles sistémicos?,manera
+85,¿Dónde se podrán consultar los motivos de la recategorización de oficio por controles sistémicos y la liquidación de los montos correspondientes a la nueva categoría?,referencia
+86,¿A partir de cuándo produce efectos la recategorización de oficio?,temporal
+87,¿Cómo proceder en caso de disconformidad con la recategorización de oficio?,procedimiento
+88,¿Qué se deberá considerar ante una recategorización por fiscalización presencial?,procedimiento
+89,"¿Se puede interponer un recurso contra las resoluciones de exclusión o recategorización de oficio resultado de una fiscalización?",si_no
+90,¿Quiénes pueden ser monotributistas?,razon
+91,¿Cuáles son los requisitos para poder inscribirse en el Régimen de Monotributo?,razon
+92,¿Qué actividades se encuentran excluidas del monotributo?,razon
+93,En caso de realizar importaciones ¿se puede adherir al Monotributo?,si_no
+94,¿Se pueden realizar exportaciones siendo monotributista?,si_no
+95,Un sujeto adherido al Monotributo por una actividad ¿puede realizar otra actividad bajo la condición de IVA Exento?,si_no
+96,¿Se puede ser empleador siendo monotributista?,si_no
+97,¿Se puede realizar la adhesión al Monotributo en caso de llevarse a cabo una actividad por única vez? ¿Se debe cumplir un tiempo mínimo de permanencia antes de realizar la baja del mismo?,si_no
+98,"Una persona humana residente en el exterior que realiza una actividad en nuestro país, ¿puede inscribirse a través de su apoderado en nuestro país como monotributista?",si_no
+99,Si un ciudadano trabaja relación de dependencia ¿se puede adherir al monotributo por una actividad independiente?,si_no
+100,"Una persona humana adherida al Monotributo por una actividad, ¿puede realizar otra actividad bajo la condición de responsable inscripto?",si_no
+101,"En los casos de venta de automóviles usados a nombre propio por cuenta de terceros, ¿Se podrá optar por el Monotributo?",si_no
+102,"El propietario de una industria, ¿se puede adherir al Monotributo?",si_no
+103,"El asociado a una cooperativa de trabajo, ¿se puede adherir al monotributo?",si_no
+104,"El síndico de una sociedad, ¿se puede adherir al monotributo por dicha actividad?",si_no
+105,¿Se puede ser monotributista si se obtiene unicamente ingresos por cobro de derechos de autor?,si_no
+106,"En caso de arrendar 5 parcelas (las mismas tienen asignados números de partidas diferentes aunque se encuentran ubicadas en el mismo partido), a los fines de la exclusión en el Monotributo, ¿se consideran más de tres unidades de explotación?",si_no
+107,"Un contribuyente que obtiene ingresos como monotributista y le corresponde presentar el Impuesto sobre los Bienes Personales, ¿Cómo debe generar la declaración jurada?",manera
+108,"Un monotributista que tiene un local y desea abrir otro en el que realice tres actividades, ¿Puede permanecer en el Monotributo?",si_no
+108,"Un monotributista que tiene un local y desea abrir otro en el que realice tres actividades, ¿Puede quedar excluido por exceder las tres actividades?",si_no
+109,¿En qué casos deberá presentar un monotributista la declaración jurada del impuesto a las ganancias?,razon
+110,"Un contribuyente que reviste la condición de responsable inscripto en IVA y está en condiciones de adherir por el Monotributo, ¿Puede optar por cambiar de régimen en cualquier momento?",si_no
+111,"Una persona que inicia actividad inscribiéndose en el Monotributo, que a la finalización del semestre calendario, por aplicación de la anualización de sus ingresos, supera el máximo previsto por el régimen. ¿Cuándo debe pasar a responsable inscripto en IVA?",temporal
+112,Un sujeto adherido al Monotributo por una actividad ¿puede realizar otra actividad bajo la condición de IVA Exento?,si_no
+113,"Un propietario que cede un inmueble a precio no determinado, ¿puede adherirse al Monotributo por el valor locativo a que refiere el Impuesto a las Ganancias?",si_no
+114,¿Cuáles son los pasos para inscribir a los condóminos como Monotributistas?,procedimiento
+115,¿Cuál es el tratamiento aplicable a los condominios?,manera
+116,"¿Qué contribuyentes monotributistas se encuentran exceptuados de cumplir sus obligaciones mediante la modalidades de pago por transferencia electrónica de fondos, debito y/ó pago electrónico?",razon
+117,¿Mediante qué formulario se podrá realizar el pago mensual en efectivo?,manera
+118,¿Cuándo se debe abonar la primera cuota en caso de adhesión al Monotributo?,temporal
+119,¿Cómo se deben ingresar los pagos de diferencias de monotributo?,procedimiento
+120,¿Cómo se deberá proceder para abonar los intereses generados por el pago fuera de término de la obligación mensual?,procedimiento
+121,¿Cuál es la fecha de vencimiento de la obligación?,temporal
+122,¿Cuáles son las formas de abonar el Monotributo?,manera
+123,¿Cómo se adhiere el pago del Monotributo al débito automático en la cuenta bancaria?,procedimiento
+124,¿Cómo se adhiere el pago del Monotributo al débito automático en la tarjeta de crédito?,procedimiento
+125,"El pago de la obligación mensual realizado fuera de término, ¿genera intereses?",si_no
+126,¿Cuáles son las entidades bancarias habilitadas para el pago del VEP?,entidad
+127,¿Cómo se deben pagar las cargas sociales de los empleados?,manera
+128,¿Cómo se puede acceder al reintegro del componente impositivo?,manera
+129,"Respecto del componente previsional (jubilación y obra social), ¿se puede abonar solo uno de dichos conceptos y excluir del pago el otro?",si_no
+130,"En caso de solicitar la baja en el régimen, ¿a partir de que período cesa la obligación de pago?",temporal
+131,¿Qué conceptos deberán abonar los asociados a Cooperativas de Trabajo?,manera
+132,"Si la cooperativa de trabajo se encuentra inscripta en el Registro Nacional de Efectores de Desarrollo Local y Economía Social, ¿existe algún tratamiento especial?",manera
+133,¿Cómo deben realizar el pago anual los sujetos adheridos al Régimen de Inclusión Social y Promoción del Trabajo Independiente?,procedimiento
+134,¿Cómo se reimprime la credencial de pago?,procedimiento
+135,¿Cómo se puede regularizar la deuda de Monotributo de períodos posteriores a 07/2004?,manera
+136,¿Cómo reafectar pagos imputados erróneamente?,manera
+137,¿A partir de qué período figura la información en el servicio CCMA?,temporal
+138,¿Qué efectos producen las deudas que figuran en el sistema?,manera
+139,¿Qué operaciones se pueden realizar dentro del servicio CCMA?,manera
+140,¿Cómo debo plantear las discrepancias con este sistema?,manera
+141,Si aplico los beneficios previsionales establecidos en la Ley 25.321 ¿puedo visualizar los mismos en el servicio CCMA?,si_no
+142,¿Qué métodos de facturación se pueden utilizar?,manera
+143,¿Quiénes se encuentran obligados a emitir comprobantes de forma manual?,razon
+144,¿Qué documentación se deberá exhibir en los locales?,referencia
+145,¿Qué comprobantes debe emitir un monotributista?,referencia
+146,"Ante inconvenientes con el uso del Controlador Fiscal, ¿cómo se emitirán los comprobantes?",manera
+147,¿Qué letra deben contener las facturas de exportación?,referencia
+148,¿Qué comprobantes deben contener el Código de Barras?,referencia
+149,¿Estoy obligado a registrar mis operaciones?,si_no
+150,¿Por cuánto tiempo deben conservarse los comprobantes emitidos y recibidos?,temporal
+151,¿Qué letra deben contener los remitos?,referencia
+152,¿Qué sujetos se encuentran exceptuados de emitir comprobantes electrónicos?,razon
+153,¿Cuáles son los comprobantes alcanzados a la obligación de emisión electrónica?,referencia
+154,¿Cuáles son las operaciones excluidas de la obligación de emisión de comprobantes electrónicos?,razon
+155,De encontrarse adherido al régimen de inclusión social y promoción del trabajo independiente ¿Qué tipo de factura debe emitir?,referencia
+156,"¿Qué tipo de factura deben de emitir los monotributistas inscriptos baja la condición ""efector social""?",referencia
+157,¿Cuál es la sanción por no exhibir la documentación correspondiente en el local?,manera
+158,¿Cuál es la sanción en caso de no poseer las facturas de respaldo de las operaciones realizadas?,manera
+159,¿Qué sucede si las operaciones no se encuentran respaldadas por las respectivas facturas?,manera
